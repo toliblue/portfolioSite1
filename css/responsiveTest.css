@@ -1,0 +1,204 @@
+@media only screen and (min-width: 1000px) {
+
+/*universal header*/
+
+#collectiveHeader {
+    display: block;
+    position: fixed;
+    text-align: left;
+    color: black;
+    width:50%;
+    left: 28%;
+    top: 0%;
+    text-decoration: none;
+    font-family: 'Bungee Shade', cursive; 
+    font-size: 5vw;
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+    z-index: 5;
+    background-color: transparent;
+    
+    
+
+}
+
+#collectiveHeader a {
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    
+    
+}
+
+
+/*entry page*/
+
+#entryHead {
+    display: inline-block;
+    position: fixed;
+    top: 15%;
+    width: 45%;
+    left: 27.5%;
+    clear: both; 
+}
+
+
+#footer {
+    clear:both;
+    display: block;
+    position: fixed;
+    float: none;
+    bottom: 0%;
+    width: 100%;
+    font-family: 'Ruda', sans-serif;
+    color: lightgrey;
+    background-color: white;
+    font-size: 8pt; 
+}
+
+#footer p {
+    text-align: center;
+}
+
+}
+
+
+@media only screen and (max-width: 1000px) and (min-width: 500px) {
+
+
+/*universal header*/
+
+#collectiveHeader {
+    display: block;
+    position: fixed;
+    text-align: left;
+    color: black;
+    width: 100%;
+    left: 10%;
+    top: 3%;
+    text-decoration: none;
+    font-family: 'Bungee Shade', cursive; 
+    font-size: 10vw;
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+    z-index: 5;
+    background-color: transparent;
+    
+    
+
+}
+
+#collectiveHeader a {
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    
+    
+}
+
+
+/*entry page*/
+
+#entryHead {
+    display: inline-block;
+    position: fixed;
+    top: 17%;
+    width: 80%;
+    left: 10%;
+    clear: both; 
+}
+
+
+#footer {
+    clear:both;
+    display: block;
+    position: fixed;
+    float: none;
+    bottom: 0%;
+    width: 100%;
+    font-family: 'Ruda', sans-serif;
+    color: lightgrey;
+    background-color: white;
+    font-size: 6pt; 
+}
+
+}
+#footer p {
+    text-align: center;
+}
+
+@media only screen and (max-width: 500px) {
+
+
+/*universal header*/
+
+#collectiveHeader {
+    display: block;
+    position: fixed;
+    text-align: left;
+    color: black;
+    width: 100%;
+    left: 20%;
+    top: 0%;
+    text-decoration: none;
+    font-family: 'Bungee Shade', cursive; 
+    font-size: 11vw;
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+    z-index: 5;
+    background-color: transparent;
+    
+    
+
+}
+
+#collectiveHeader a {
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    
+    
+}
+
+
+/*entry page*/
+
+#entryHead {
+    display: inline-block;
+    position: fixed;
+    top: 12%;
+    width: 80%;
+    left: 10%;
+    clear: both; 
+}
+
+
+#footer {
+    clear:both;
+    display: block;
+    position: fixed;
+    float: none;
+    bottom: 0%;
+    width: 100%;
+    font-family: 'Ruda', sans-serif;
+    color: lightgrey;
+    background-color: white;
+    font-size: 6pt; 
+}
+
+}
+#footer p {
+    text-align: center;
+}
